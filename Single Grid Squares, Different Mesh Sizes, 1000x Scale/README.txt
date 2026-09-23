@@ -1,0 +1,4 @@
+Single Grid Squares for Cryo-EM, Different Mesh Sizes, 1000x Scale by tlevitz on Thingiverse: https://www.thingiverse.com/thing:7125110
+
+Summary:
+1000x scale of various grid square mesh sizes (200, 300, 400). Aluminum foil is approximately to scale for a C or Au foil. See image for original dimensions and scaling. Note that heights are approximate; although mesh height gets thinner as mesh size increases and approximate ranges of mesh heights are known, there are no quantitative measurements available for exact mesh height and/or standard deviation of that height. Printed with Dremel DigiLab 3D45 3D Printer, layer height 0.2 mm

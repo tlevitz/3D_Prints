@@ -1,0 +1,4 @@
+Cryo-EM Grids, 50x scale, Different Mesh Sizes by tlevitz on Thingiverse: https://www.thingiverse.com/thing:7125115
+
+Summary:
+50x scale of cryo-EM grids with 200, 300, and 400 mesh.  Aluminum foil (heavy duty or 2 sheets of normal-duty) is approximately to scale for Au foil on the grids that are 50x in the x- and y- directions and 500x in the z-direction. See images of calculations for original dimensions and scaling. Note that heights are approximate; although mesh height gets thinner as mesh size increases and approximate ranges of mesh heights are known, there are no quantitative measurements available for exact mesh height and/or standard deviation of that height. Printed with Dremel DigiLab 3D45 3D Printer, layer height 0.05 mm for grids 50x in z-direction and 0.2 mm for grids 500x in z-direction.
