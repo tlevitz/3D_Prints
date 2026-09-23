@@ -20,12 +20,12 @@ _10000x scale of various hole sizes and spacings for cryo-EM (0.6/1, 1.2/1.3, 2/
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/9fc4f19e-51b6-4192-9167-41baac4c13bd" />
 
 ## Clip / Ring
-_50x scale c-clip and ring for teaching cryo-EM clipping. Clip ring comes in two parts that fit together without glue when fittings are printed.(See image for dimensions; clip ring dimensions from https://www.mitegen.com/product/autogrid-rings-and-c-clips/; c-clip dimensions approximate)_
+_50x scale c-clip and ring for teaching cryo-EM clipping. Clip ring comes in two parts that fit together without glue when fittings are printed.(See image for dimensions; clip ring dimensions from [here](https://www.mitegen.com/product/autogrid-rings-and-c-clips/); c-clip dimensions approximate.)_
 
 <img width="480" height="348" alt="image" src="https://github.com/user-attachments/assets/d309c46a-8274-46c3-9cec-baaf5722aaf2" />
 
 ## Aperture Strip
-_Microscope aperture strip at 500x scale. Approximate scale generated from https://www.tedpella.com/apertures-and-filaments_html/aperture8.aspx (holes were moved closer together but hole diameter and height should be accurate)._
+_Microscope aperture strip at 500x scale. Approximate scale generated from [here](https://www.tedpella.com/apertures-and-filaments_html/aperture8.aspx) (holes were moved closer together but hole diameter and height should be accurate)._
 
 <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/6573dfc6-18cb-42b4-8eb0-278e0197badb" />
 
