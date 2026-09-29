@@ -36,3 +36,5 @@ _Loading demo station for cryo-EM autogrids on a Thermo Fisher system. This is N
 
 ## OT2 Plate Holder
 _Replacement 96-well plate holder for the OT2 liquid handler device to secure the plate in place_
+
+<img width="532" height="413" alt="ot2_holder" src="https://github.com/user-attachments/assets/e5c0282c-fc1d-4e4a-8451-a30f0b07ff32" />
