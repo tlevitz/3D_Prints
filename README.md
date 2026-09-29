@@ -2,7 +2,7 @@
 
 All examples were printed with the assistance of Harvard Medical School's Countway Library on a Dremel DigiLab 3D45 3D Printer, layer height 0.2 mm (standard prints) or 0.05 mm (very thin or closely spaced prints)
 
-Scaling for all prints (except the loading station demo) was based off of [this](https://docs.google.com/spreadsheets/d/1f1b6k9jm1GyrzlE8WFQewc6G6m6LwZMei9BFIlDTZDM/edit?usp=sharing) Google sheet
+Scaling for all cryo-EM prints (except the loading station demo) was based off of [this](https://docs.google.com/spreadsheets/d/1f1b6k9jm1GyrzlE8WFQewc6G6m6LwZMei9BFIlDTZDM/edit?usp=sharing) Google sheet
 
 ## Base Grids
 _50x scale of cryo-EM grids with 200, 300, and 400 mesh.  Aluminum foil (heavy duty or 2 sheets of normal-duty) is approximately to scale for Au foil on the grids that are 50x in the x- and y- directions and 500x in the z-direction. Note that heights are approximate; although mesh height gets thinner as mesh size increases and approximate ranges of mesh heights are known, there are no quantitative measurements available for exact mesh height and/or standard deviation of that height. Printed with layer height 0.05 mm for grids 50x in z-direction and 0.2 mm for grids 500x in z-direction._
@@ -33,3 +33,6 @@ _Microscope aperture strip at 500x scale. Approximate scale generated from [here
 _Loading demo station for cryo-EM autogrids on a Thermo Fisher system. This is NOT to scale. Layer height 0.2 mm for big parts (body_left, body_right, clipped_grid) and 0.05 mm for smaller parts. Some assembly pointers are in the README file._
 
 <img width="360" height="480" alt="image" src="https://github.com/user-attachments/assets/40795e1a-fd77-49ba-beac-c1852dd73e6a" />
+
+## OT2 Plate Holder
+_Replacement 96-well plate holder for the OT2 liquid handler device to secure the plate in place_
